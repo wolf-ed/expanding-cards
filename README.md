@@ -12,7 +12,7 @@ JS-app to display images playing with CSS: https://wolf-ed.github.io/expanding-c
 
 This is a one page app created with JS that changes the size of images to increase the size of the image clicked, 
 by changing its classes and therefore styles properties.
-It's a reactive design that adapts to different screen-sizes and devices.
+It's a responsive design that adapts to different screen-sizes and devices.
 
 ## Technologies
 
